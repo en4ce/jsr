@@ -1,0 +1,4 @@
+jsr
+===
+
+Javascript - Random
